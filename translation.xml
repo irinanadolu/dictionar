@@ -13,15 +13,15 @@
   
 --><translation>
     <languageList>
-        <language description="English" lang="en_US" localeDescription="English"/>
-        <language description="German" lang="de_DE" localeDescription="Deutsch"/>
+        <language description="EE-WA" lang="en_US" localeDescription="English"/>
+        <language description="GG-WA" lang="de_DE" localeDescription="Deutsch"/>
         <language description="French" lang="fr_FR" localeDescription="Français"/>
         <language description="Japanese" lang="ja_JP" localeDescription="日本語"/>
         <language description="Dutch" lang="nl_NL" localeDescription="Nederlands"/>
     </languageList>
     <key value="Input_dita_map">
         <comment>Message in tooltip to present the input DITA Map file.</comment>
-        <val lang="en_US">Input DITA Map</val>
+        <val lang="ee-WA">Input DITA Map</val>
         <val lang="de_DE">Input DITA Map</val>
         <val lang="fr_FR">DITA Map en entrée</val>
         <val lang="ja_JP">Input DITA Map</val>
