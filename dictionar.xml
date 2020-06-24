@@ -2,9 +2,10 @@
 <Dictionary>
     <Learned>
         <Language code="en">
-            <w proposedBy="usera, bierbier" proposedDate="12355">wordaaaaaaaabbbb</w>
-            <w>thinksmart</w>
-            <w>saysay</w>
+            <w>wordexample</w>
+            <w>worda</w>
+            <w>longword</w>
+            <w>learned word</w>
         </Language>
         <Language code="fr">
             <w>worta</w>
@@ -13,13 +14,12 @@
     </Learned>
     <Forbidden>
         <Language code="en">
-            <w>are</w>
-            <w>would</w>
-            <w>must</w>
+            <w>some</w>
+            <w>forbidden</w>
+            <w>words</w>
         </Language>
         <Language code="de">
             <w>verboten</w>
-            <w>ignoriert</w>
         </Language>
     </Forbidden>
 </Dictionary>
