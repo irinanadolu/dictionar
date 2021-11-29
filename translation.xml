@@ -15,7 +15,7 @@
     <languageList>
         <language description="EE-WA" lang="en_US" localeDescription="English"/>
         <language description="GG-WA" lang="de_DE" localeDescription="Deutsch"/>
-        <language description="French" lang="fr_FR" localeDescription="Français"/>
+        <language description="French" lang="fr_FR" localeDescription="Français par des images"/>
         <language description="Japanese" lang="ja_JP" localeDescription="日本語"/>
         <language description="Dutch" lang="nl_NL" localeDescription="Nederlands"/>
     </languageList>
